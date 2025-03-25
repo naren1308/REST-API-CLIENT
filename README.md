@@ -16,3 +16,4 @@ This Java application fetches real-time weather data from OpenWeatherMap using H
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f8d39fec-ca41-4a3e-9128-51955af8781b)
